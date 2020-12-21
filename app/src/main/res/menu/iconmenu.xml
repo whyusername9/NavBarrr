@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/manu_home"
+    android:icon="@drawable/ic_baseline_home_24"
+    android:title="Home"/>
+    
+    <item android:id="@+id/manu_calculator"
+        android:icon="@drawable/ic_baseline_filter_9_plus_24"
+        android:title="Calculator"/>
+
+    <item android:id="@+id/manu_Quiz"
+        android:icon="@drawable/ic_baseline_laptop_chromebook_24"
+        android:title="Quiz"/>
+</menu>
